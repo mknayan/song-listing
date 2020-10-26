@@ -1,0 +1,9 @@
+https://emailfake.com/channel2/
+email: mindestmass@coronagg.com
+Password: Dhaka2020
+
+DB
+Username: mkn_db
+Password: 57zIcKz8uQPTV9z8
+
+connection: mongodb+srv://mkn_db:<password>@cluster0.joinz.mongodb.net/<dbname>?retryWrites=true&w=majority
